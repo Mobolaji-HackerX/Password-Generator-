@@ -1,0 +1,8 @@
+# Optional dependencies
+# Core functionality works without any installed packages
+
+# For improved clipboard support on Linux (fallback method)
+pyperclip>=1.8.0
+
+# For running tests
+pytest>=7.0.0
