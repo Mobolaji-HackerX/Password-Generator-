@@ -19,8 +19,8 @@ A secure, customizable command-line password generator built with Python. Genera
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/password-generator.git
-cd password-generator
+git clone https://github.com/Mobolaji-HackerX/Password-Generator.git
+cd Password-Generator
 
 # No dependencies required for basic usage!
 # Optional: install pyperclip for better clipboard support on Linux
